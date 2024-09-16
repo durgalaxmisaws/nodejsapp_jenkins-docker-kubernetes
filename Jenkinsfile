@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    dockerimagename = "durgalaxmisaws/first_test"
+    dockerimagename = "durgalaxmisaws/durga_cicd"
     dockerImage = ""
   }
 
